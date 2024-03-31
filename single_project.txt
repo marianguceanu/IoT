@@ -1,0 +1,3 @@
+Project details:
+	- An Arduino board will be used to control the system.
+	- An LCD display will show a nice message. (eg. "Are you having a beautiful day?")
