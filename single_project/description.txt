@@ -1,0 +1,4 @@
+An Arduino board is connected to the computer. 
+It should start the LCD display. 
+The LCD should be blank or display text from a previous run. 
+When re-compiling the sketch, the LCD should display the new text.

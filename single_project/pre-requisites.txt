@@ -1,0 +1,10 @@
+Software:
+	1. Arduino IDE ( https://www.arduino.cc/en/software )
+Hardware:
+	1. Arduino R3 Board ( https://www.arduino.cc/en/Main/arduinoBoardUno )
+	2. USB Cable
+	3. 16x2 LCD Display ( https://www.arduino.cc/en/Tutorial/HelloWorld )
+	4. Potentiometer - adjusts display intensity ( https://www.arduino.cc/en/Tutorial/Potentiometer )
+	5. Breadboard - to connect all the jumper wires( https://www.arduino.cc/en/Tutorial/Blink )
+	6. Jumper Wires ( https://www.arduino.cc/en/Tutorial/DigitalPins )
+	7. 220 Ohm Resistor - to regulate the AC and not burn-in the LCD ( https://www.arduino.cc/en/Tutorial/AnalogInput )

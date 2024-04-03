@@ -1,0 +1,11 @@
+- The LiquidCrystal library is a built-in library in Arduino IDE, so you don't need to install it manually.
+- Import it to your code by adding the following line at the beginning of your code:
+	import <LiquidCrystal.h>
+- Create an object of the LiquidCrystal class by calling the constructor with the parameters for the RS, EN, D4, D5, D6, and D7 pins
+(For example: LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // the ones I used)
+- In setup(), call the begin() method of the lcd object with the parameters for the number of columns and rows of the LCD display
+(For example: lcd.begin(16, 2); // for a 16x2 LCD display)
+- In loop(), use the print() and setCursor() methods of the lcd object to display text on the LCD display
+
+- Then, compile it and upload it on the board (Arduino Uno in my case) and you should see the text displayed on the LCD screen.
+- This compiling and uploading is done automatically by the Arduino IDE when you click on the "Upload" button.

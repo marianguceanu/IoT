@@ -1,0 +1,15 @@
+Connect the LCD to the Arduino as follows:
+* LCD VSS/GND pin to Arduino GND
+* LCD VDD/VCC pin to Arduino 5V
+* LCD VO pin to the center pin of the potentiometer, or as I did, to the breadboard with a serial connection to the potentiometer
+* LCD RS pin to Arduino digital pin 12
+* LCD RW pin to breadboard with a serial connection to the GND
+* LCD E pin to Arduino digital pin 11
+
+-- Next 4 instructions refer to data pins
+* LCD D4 pin to Arduino digital pin 5
+* LCD D5 pin to Arduino digital pin 4
+* LCD D6 pin to Arduino digital pin 3
+* LCD D7 pin to Arduino digital pin 2
+
+* LCD A/BLA pin to breadboard with a serial connection to the power (this will turn on the backlight)

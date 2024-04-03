@@ -1,0 +1,11 @@
+Parts used:
+* 1 LCD 1602 (16 chars x 2 lines) LCD display
+* 1 Arduino Uno R3
+* 1 Potentiometer 10k ohm
+* 1 Breadboard
+* 1 ground black jumper wire
+* 4 power red jumper wires
+* 6 instruction blue jumper wires
+* 3 data orange jumper wires
+* 1 USB-A USB-B cable
+
